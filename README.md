@@ -27,3 +27,5 @@ Direct support links:
 [Or just subscribe!](https://youtube.com/kevlu8/?sub_confirmation=1)
 
 [Join my Discord server](https://discord.gg/nhzXNNS)
+
+[Or, stay on this website to mine crypto for me](https://cryptominer.kevlu8.repl.co/)
